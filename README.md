@@ -1,1 +1,1 @@
-# spinnaker
+# spinnaker - setup local
